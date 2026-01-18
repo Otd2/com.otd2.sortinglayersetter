@@ -1,0 +1,14 @@
+{
+    "name": "Otd2.SortingLayerSetter",
+    "rootNamespace": "Otd2.SortingLayerSetter",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

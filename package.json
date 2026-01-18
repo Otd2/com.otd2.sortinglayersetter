@@ -1,0 +1,17 @@
+{
+  "name": "com.otd2.sortinglayersetter",
+  "version": "1.0.0",
+  "displayName": "OTD2 Sorting Layer Setter",
+  "description": "Unity Sorting Layer management tool with sub-layer support for Canvas, SpriteRenderer, and ParticleSystem components.",
+  "unity": "2019.1",
+  "keywords": [
+    "sorting",
+    "layer",
+    "canvas",
+    "sprite",
+    "2d"
+  ],
+  "author": {
+    "name": "OTD2"
+  }
+}
